@@ -8,7 +8,7 @@
 ### 这是使用体验：
 
 <video width="320" height="240" controls>
-  <source src="./preview/使用流程.mp4" type="video/mp4">
+  <source src="preview/使用流程.mp4" type="video/mp4">
 </video>
 
 

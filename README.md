@@ -12,6 +12,8 @@
 </video>
 
 
+<iframe height="498" width="510" src="preview/使用流程.mp4"></iframe>
+
 **备注：**
 
 由于这只是一个demo，公司并没有当做正式产品使用，如果有需要源代码的可以联系我

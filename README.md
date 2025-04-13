@@ -5,7 +5,7 @@
 ### 首页：
 ![首页界面](preview/推荐界面.jpg)
 
-### 这是使用体验：
+### [这是使用体验：](preview/使用流程.mp4)
 
 <video width="100%" height="400" controls>
   <source src="preview/使用流程.mp4" type="video/mp4">

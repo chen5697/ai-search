@@ -7,8 +7,9 @@
 
 ### 这是使用体验：
 
+![使用流程](preview/使用流程.mp4)
 
-<video width="500" height="400" controls>
+<video width="100%" height="400" controls>
   <source src="preview/使用流程.mp4" type="video/mp4">
 </video>
 

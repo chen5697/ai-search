@@ -4,6 +4,10 @@
 
 ### 首页：
 ![首页界面](preview/推荐界面.jpg)
+![图表能力](preview/图表能力.png)
+![NL2SQL](preview/nl2sql.png)
+![问答](preview/问答.png)
+
 
 ### [这是使用体验：](preview/使用流程.mp4)
 

@@ -7,12 +7,12 @@
 
 ### 这是使用体验：
 
-<video width="320" height="240" controls>
+
+<video width="500" height="400" controls>
   <source src="preview/使用流程.mp4" type="video/mp4">
 </video>
 
 
-<iframe height="498" width="510" src="preview/使用流程.mp4"></iframe>
 
 **备注：**
 
